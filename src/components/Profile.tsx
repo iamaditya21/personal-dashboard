@@ -1,6 +1,25 @@
 import React from "react";
 
-export default function Profile({ profile }) {
+interface ProfileContact {
+  email: string;
+  linkedin: string;
+  github: string;
+  location: string;
+  phone: string;
+}
+
+interface ProfileData {
+  name: string;
+  photo: string;
+  bio: string;
+  contact: ProfileContact;
+}
+
+type ProfileProps = {
+  profile: ProfileData;
+};
+
+export default function Profile({ profile }: ProfileProps) {
   return (
     <section className="flex flex-col md:flex-row items-center bg-white dark:bg-gray-800 p-6 rounded shadow">
       <img

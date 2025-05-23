@@ -1,4 +1,9 @@
-export default function Extras({ goals, hobbies }) {
+interface ExtrasProps {
+  goals: string[];
+  hobbies: string[];
+}
+
+export default function Extras({ goals, hobbies }: ExtrasProps) {
   return (
     <section className="bg-white dark:bg-gray-800 p-6 rounded shadow mt-6 grid md:grid-cols-2 gap-6">
       {/* Goals Section */}
