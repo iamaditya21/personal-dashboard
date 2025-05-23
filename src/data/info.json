@@ -1,0 +1,76 @@
+{
+"profile": {
+"name": "Aditya Kumar",
+"photo": "/profile.jpg",
+"bio": "Aspiring full-stack developer and problem solver from MANIT Bhopal. Passionate about building scalable web applications, contributing to open-source, and constantly improving my technical skills through real-world projects and coding platforms.",
+"contact": {
+"email": "kraditya2073@gmail.com",
+"phone": "+91-8434263937",
+"location": "Bhopal, India",
+"linkedin": "https://www.linkedin.com/in/aditya-kumar-330724221/",
+"github": "https://github.com/iamaditya21",
+"codeforces": "https://codeforces.com/profile/i_am_02aditya",
+"leetcode": "https://leetcode.com/u/iam2103aditya/",
+"gfg": "https://www.geeksforgeeks.org/user/iamaditya21/"
+}
+},
+"education": [
+{
+"degree": "Bachelor of Technology in Computer Science and Engineering",
+"institution": "Maulana Azad National Institute of Technology, Bhopal",
+"year": "2021 - Present",
+"details": "Current CGPA: 7.85"
+}
+],
+"internships": [
+{
+"role": "Web Developer",
+"company": "Tooryanaad Samiti, MANIT Bhopal",
+"duration": "June 2022 - Present",
+"description": "Developed and maintained the official website using React.js, Node.js, and MongoDB. Improved project efficiency by 20% and increased event engagement by 50%. Integrated volunteer data for better resource allocation and planning.",
+"link": "https://www.tooryanaad.org/"
+}
+],
+"projects": [
+{
+"name": "Society’s Site",
+"description": "Official site for Tooryanaad, developed using React, Express, MongoDB, Bootstrap, and Axios. Facilitated 1200+ registrations, improved navigation UX, and boosted engagement by 50%.",
+"link": "https://www.tooryanaad.org/"
+},
+{
+"name": "Portfolio Website",
+"description": "Designed a responsive portfolio using Tailwind CSS and JavaScript. Deployed on Vercel.",
+"link": "https://portfolio-adi-nitb.vercel.app/"
+},
+{
+"name": "Tickt",
+"description": "Scalable ticket booking platform built with FastAPI, PostgreSQL, React, and Context API. Features JWT auth, CI/CD, and improved data integrity with SQLAlchemy.",
+"link": "https://tickt.onrender.com/"
+}
+],
+"skills": [
+{ "name": "React.js", "level": 90 },
+{ "name": "Node.js", "level": 85 },
+{ "name": "FastAPI", "level": 80 },
+{ "name": "JavaScript", "level": 90 },
+{ "name": "Python", "level": 80 },
+{ "name": "SQL", "level": 75 },
+{ "name": "MongoDB", "level": 75 },
+{ "name": "PostgreSQL", "level": 70 },
+{ "name": "Tailwind CSS", "level": 80 },
+{ "name": "Git/GitHub", "level": 85 }
+],
+"certifications": [],
+"goals": [
+"Become a proficient full-stack developer.",
+"Contribute consistently to open-source projects.",
+"Crack top-tier technical interviews.",
+"Explore system design and distributed computing."
+],
+"hobbies": [
+"Competitive programming on Codeforces, Leetcode",
+"Open-source contributions",
+"Chess and problem solving",
+"Exploring new technologies and web trends"
+]
+}
